@@ -1,0 +1,861 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HashMapCode",
+            "request": "launch",
+            "mainClass": "HashMapCode",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "HashMap1",
+            "request": "launch",
+            "mainClass": "HashMap1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "ConvertBST2BBST",
+            "request": "launch",
+            "mainClass": "ConvertBST2BBST",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQ",
+            "request": "launch",
+            "mainClass": "PriorityQ",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "BalanceBST",
+            "request": "launch",
+            "mainClass": "BalanceBST",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "BSTbuild",
+            "request": "launch",
+            "mainClass": "BSTbuild",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "KthLevelBinaryTree",
+            "request": "launch",
+            "mainClass": "KthLevelBinaryTree",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "HeightOfBinarytree",
+            "request": "launch",
+            "mainClass": "HeightOfBinarytree",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeB",
+            "request": "launch",
+            "mainClass": "BinaryTreeB",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "ActivityGreedy",
+            "request": "launch",
+            "mainClass": "ActivityGreedy",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "ArraylistMaxval",
+            "request": "launch",
+            "mainClass": "ArraylistMaxval",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "ArraylistSize",
+            "request": "launch",
+            "mainClass": "ArraylistSize",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "ArraylistSort",
+            "request": "launch",
+            "mainClass": "ArraylistSort",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "ArraysList",
+            "request": "launch",
+            "mainClass": "ArraysList",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "DoubleEndedQueue",
+            "request": "launch",
+            "mainClass": "DoubleEndedQueue",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "DubleLL",
+            "request": "launch",
+            "mainClass": "DubleLL",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "FractionalKnapsack",
+            "request": "launch",
+            "mainClass": "FractionalKnapsack",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "IndianCoin",
+            "request": "launch",
+            "mainClass": "IndianCoin",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "Linkedlist",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "MaxChainLength",
+            "request": "launch",
+            "mainClass": "MaxChainLength",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "MinAbsDiff",
+            "request": "launch",
+            "mainClass": "MinAbsDiff",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "MonotonicAl",
+            "request": "launch",
+            "mainClass": "MonotonicAl",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "MultidimentionalArraylist",
+            "request": "launch",
+            "mainClass": "MultidimentionalArraylist",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "PareSumAl",
+            "request": "launch",
+            "mainClass": "PareSumAl",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "PareSumTpa",
+            "request": "launch",
+            "mainClass": "PareSumTpa",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "PeakValue",
+            "request": "launch",
+            "mainClass": "PeakValue",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "PushBottemStack",
+            "request": "launch",
+            "mainClass": "PushBottemStack",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "QueueReversal",
+            "request": "launch",
+            "mainClass": "QueueReversal",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingDeque",
+            "request": "launch",
+            "mainClass": "QueueUsingDeque",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingDeue",
+            "request": "launch",
+            "mainClass": "StackUsingDeue",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "TargetSum",
+            "request": "launch",
+            "mainClass": "TargetSum",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Test2",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "TwoStacQueu",
+            "request": "launch",
+            "mainClass": "TwoStacQueu",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "anagram",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "array1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "array4",
+            "request": "launch",
+            "mainClass": "array4",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "arrayArgument",
+            "request": "launch",
+            "mainClass": "arrayArgument",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "arraybacktrack",
+            "request": "launch",
+            "mainClass": "arraybacktrack",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "binaryToDecimal",
+            "request": "launch",
+            "mainClass": "binaryToDecimal",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "binomalCofficent",
+            "request": "launch",
+            "mainClass": "binomalCofficent",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "bitOperation",
+            "request": "launch",
+            "mainClass": "bitOperation",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "breakKeyword",
+            "request": "launch",
+            "mainClass": "breakKeyword",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "buyAndSellStock",
+            "request": "launch",
+            "mainClass": "buyAndSellStock",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "checkTwoDArray",
+            "request": "launch",
+            "mainClass": "checkTwoDArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "commpresionstrings",
+            "request": "launch",
+            "mainClass": "commpresionstrings",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "condition1",
+            "request": "launch",
+            "mainClass": "condition1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "condition2",
+            "request": "launch",
+            "mainClass": "condition2",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "condition3",
+            "request": "launch",
+            "mainClass": "condition3",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "condition4",
+            "request": "launch",
+            "mainClass": "condition4",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "condition5",
+            "request": "launch",
+            "mainClass": "condition5",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "containerWaterAl",
+            "request": "launch",
+            "mainClass": "containerWaterAl",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "decToBin",
+            "request": "launch",
+            "mainClass": "decToBin",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "decreaseNoRecur",
+            "request": "launch",
+            "mainClass": "decreaseNoRecur",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "digonalsumTwoDArray",
+            "request": "launch",
+            "mainClass": "digonalsumTwoDArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "doWhile",
+            "request": "launch",
+            "mainClass": "doWhile",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "factorialRecur",
+            "request": "launch",
+            "mainClass": "factorialRecur",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "fibRecur",
+            "request": "launch",
+            "mainClass": "fibRecur",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "function1",
+            "request": "launch",
+            "mainClass": "function1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "function2",
+            "request": "launch",
+            "mainClass": "function2",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "function3",
+            "request": "launch",
+            "mainClass": "function3",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "function5",
+            "request": "launch",
+            "mainClass": "function5",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "introArray",
+            "request": "launch",
+            "mainClass": "introArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "kadansArray",
+            "request": "launch",
+            "mainClass": "kadansArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "largeststrings",
+            "request": "launch",
+            "mainClass": "largeststrings",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "llCFW",
+            "request": "launch",
+            "mainClass": "llCFW",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "logical",
+            "request": "launch",
+            "mainClass": "logical",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "maxMinValArray",
+            "request": "launch",
+            "mainClass": "maxMinValArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "multidimentionalArraylist1",
+            "request": "launch",
+            "mainClass": "multidimentionalArraylist1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "multiplicationTable",
+            "request": "launch",
+            "mainClass": "multiplicationTable",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "multiplyfunction",
+            "request": "launch",
+            "mainClass": "multiplyfunction",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "nNumwhile",
+            "request": "launch",
+            "mainClass": "nNumwhile",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "naturalSumRecur",
+            "request": "launch",
+            "mainClass": "naturalSumRecur",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "oddEvenBit",
+            "request": "launch",
+            "mainClass": "oddEvenBit",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "pairsOfArray",
+            "request": "launch",
+            "mainClass": "pairsOfArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "permituationBacktrack",
+            "request": "launch",
+            "mainClass": "permituationBacktrack",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "preincrement",
+            "request": "launch",
+            "mainClass": "preincrement",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "primeInRange",
+            "request": "launch",
+            "mainClass": "primeInRange",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "primeNum",
+            "request": "launch",
+            "mainClass": "primeNum",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "printNumWhile",
+            "request": "launch",
+            "mainClass": "printNumWhile",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "rec2",
+            "request": "launch",
+            "mainClass": "rec2",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "rec3",
+            "request": "launch",
+            "mainClass": "rec3",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "recur1",
+            "request": "launch",
+            "mainClass": "recur1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "reverseNum",
+            "request": "launch",
+            "mainClass": "reverseNum",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "reverseNum1",
+            "request": "launch",
+            "mainClass": "reverseNum1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "san",
+            "request": "launch",
+            "mainClass": "san",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "searchMatrix",
+            "request": "launch",
+            "mainClass": "searchMatrix",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "smallestLaegestTwoDArray",
+            "request": "launch",
+            "mainClass": "smallestLaegestTwoDArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "sortingQuestion",
+            "request": "launch",
+            "mainClass": "sortingQuestion",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "sprialMatrix",
+            "request": "launch",
+            "mainClass": "sprialMatrix",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "squrePattern",
+            "request": "launch",
+            "mainClass": "squrePattern",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "strSubsetBack",
+            "request": "launch",
+            "mainClass": "strSubsetBack",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "stringIsPalindrom",
+            "request": "launch",
+            "mainClass": "stringIsPalindrom",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "stringShortestPath",
+            "request": "launch",
+            "mainClass": "stringShortestPath",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "stringsQues1",
+            "request": "launch",
+            "mainClass": "stringsQues1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "subArray",
+            "request": "launch",
+            "mainClass": "subArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "sumNaturlWhile",
+            "request": "launch",
+            "mainClass": "sumNaturlWhile",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "sumOfOddEven",
+            "request": "launch",
+            "mainClass": "sumOfOddEven",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "sumSubArray",
+            "request": "launch",
+            "mainClass": "sumSubArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "swapXor",
+            "request": "launch",
+            "mainClass": "swapXor",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "taxCalculator",
+            "request": "launch",
+            "mainClass": "taxCalculator",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "ternaryOperator",
+            "request": "launch",
+            "mainClass": "ternaryOperator",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "test4",
+            "request": "launch",
+            "mainClass": "test4",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "trapwater",
+            "request": "launch",
+            "mainClass": "trapwater",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "twoDArr1",
+            "request": "launch",
+            "mainClass": "twoDArr1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "twoDArr2",
+            "request": "launch",
+            "mainClass": "twoDArr2",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "twoDArr3",
+            "request": "launch",
+            "mainClass": "twoDArr3",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "twoDArray",
+            "request": "launch",
+            "mainClass": "twoDArray",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "upperCaseLatter",
+            "request": "launch",
+            "mainClass": "upperCaseLatter",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "vari1",
+            "request": "launch",
+            "mainClass": "vari1",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "vari2",
+            "request": "launch",
+            "mainClass": "vari2",
+            "projectName": "apna clg.java_c370913a"
+        },
+        {
+            "type": "java",
+            "name": "vari3",
+            "request": "launch",
+            "mainClass": "vari3",
+            "projectName": "apna clg.java_c370913a"
+        }
+    ]
+}
