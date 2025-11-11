@@ -1,18 +1,15 @@
 import java.util.*;
 public class function1 {
-    public static int calculateSum(int a,int b){
-        int sum=a+b;
-        return sum;
+    public static int average(int a,int b,int c){
+        int sum=a+b+c;
+        int avg=sum/3;
+        System.out.println(avg);
+        return avg;
 
     }
     public static void main(String args[]){
-        Scanner sc=new Scanner(System.in);
-        int a=sc.nextInt();
-        int b=sc.nextInt();
-
-        int sum=calculateSum(a,b);
-        System.out.println("sum of two number is:"+sum);
-
+        average(45,85,94);
     }
+
     
 }

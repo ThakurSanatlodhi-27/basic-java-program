@@ -1,7 +1,12 @@
+import java.util.*;
 public class loop {
     public static void main(String args[]){
-        for(int counter=0;counter<100;counter=counter+1){
-            System.out.println("Hello sanat");
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        for(int i=1;i<=n;i++){
+            if(i%2==0){
+                System.out.println(i);
+            }
             
         }
     }

@@ -1,27 +1,36 @@
 import java.util.*;
 public class switc{
-    public static void main(String[] args){
+    public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int button=sc.nextInt();
-        //if(button==1){
-        //    System.out.println("Hello");
-        //}else if(button==2){
-        //    System.out.println("Namaste");
-        //}else if(button==3) {
-        //    System.out.println("Bonjaro");
-        //}else{
-        //   System.out.println("Invalid butten");
-        //}
         switch(button){
-            case 1:System.out.println("hello");
+            case 1:System.out.println("january");
             break;
-            case 2:System.out.println("namaste");
+            case 2:System.out.println("febraury");
             break;
-            case 3:System.out.println("bonjaro");
+            case 3:System.out.println("march");
+            break;
+            case 4:System.out.println("april");
+            break;
+            case 5:System.out.println("may");
+            break;
+            case 6:System.out.println("june");
+            break;
+            case 7:System.out.println("July");
+            break;
+            case 8:System.out.println("august");
+            break;
+            case 9:System.out.println("september");
+            break;
+            case 10:System.out.println("october");
+            break;
+            case 11:System.out.println("november");
+            break;
+            case 12:System.out.println("december");
             break;
             default:System.out.println("invalid button");
         }
+
         
     }
 }
-

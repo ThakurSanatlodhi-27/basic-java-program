@@ -1,17 +1,23 @@
-import java.util.*; 
-    public class function2{
-        public static int calculateProduct(int a,int b){
-            
-            return a*b;
+import java.util.*;
+public class function2 {
+    public static boolean isEven(int n){
+        
+        if(n%2==0){
+             return true;
+        }else{
+             return false;
         }
-        public static void main(String args[]){
-            Scanner sc=new Scanner(System.in);
-            int a=sc.nextInt();
-            int b=sc.nextInt();
-
-            
-            System.out.println("product of 2 numbers is:"+calculateProduct(a, b));
-        }
+        
     }
-    
+    public static void main(String args[]){
+        
+        if(isEven(5)){
+            System.out.println("the number is even");
+            
+        }else{
+            System.out.println("the number is odd");
+        }
 
+    } 
+    
+}

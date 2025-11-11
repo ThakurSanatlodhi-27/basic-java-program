@@ -1,15 +1,20 @@
 import java.util.*;
 public class input {
-    public static void main(String[] args){
-        //input
+    public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
-        //String name=sc.next();
-        //System.out.print(name);
-        String sub=sc.nextLine();
-        System.out.print(sub);
-        //nextInt()
-        //nextFloat()
-
+        int a=sc.nextInt();
+        int b=sc.nextInt();
+        int sum=a+b;
+        int dif=a-b;
+        int mul=a*b;
+        int div=a/b;
+        int mod=a%b;
+        System.out.println(sum);
+        System.out.println(dif);
+        System.out.println(mul);
+        System.out.println(div);
+        System.out.println(mod);
+        
     }
     
 }
