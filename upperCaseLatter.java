@@ -1,4 +1,4 @@
-public class upperCaseLatter {
+public class UpperCaseLatter {
     public static String toupper(String sanat){
         StringBuilder sb=new StringBuilder("");
         char ch=Character.toUpperCase(sanat.charAt(0));

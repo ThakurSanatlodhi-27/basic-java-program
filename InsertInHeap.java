@@ -10,7 +10,8 @@ public class InsertInHeap {
                 int temp=arr.get(x);
                 arr.set(x,arr.get(par));
                 arr.set(par,temp);
-
+                  x = par;
+                par = (x - 1) / 2;
             }
 
         }
@@ -23,7 +24,8 @@ public class InsertInHeap {
         h.add(7);
         h.add(9);
         h.add(5);
-        h.print
+        System.out.println(h.arr);
+
         
 
 

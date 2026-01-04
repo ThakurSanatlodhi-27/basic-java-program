@@ -23,7 +23,7 @@ public class maxMinValArray {
         int key=91;
         int smallest;
         maxMin(number,key);
-        System.out.pr
+        System.out.println();
         
         
         
